@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @agentzero001  (jens)
+- 👀 I’m interested in math and sports and sometimes abit gaming
+- 🌱 I’m currently learning python, angular framework, c++
+- 📫 Email: jens.marhoefer001@gmail.com
